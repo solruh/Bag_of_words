@@ -21,7 +21,7 @@ except ModuleNotFoundError:
     # There can be many possible types, but we recommend you to use types below.
     ArrayLike = Union[list, tuple, np.ndarray]
 
-
+#this is just trial
 """
 # Bag-of-Words Classification with scikit-learn
 
